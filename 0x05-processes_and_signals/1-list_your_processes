@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#displays all pids
+
+ps -u
